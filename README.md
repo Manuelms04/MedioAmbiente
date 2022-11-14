@@ -12,6 +12,7 @@ debemos llevar referirnos a la informática ecológica, esta es un enfoque de la
 
 ## Referencias
 - [Wikipedia](https://es.wikipedia.org)
+- [Acciona](https://www.acciona.com)
 
 ## Licencia
 ![image](Contenidos/licencia.png)
