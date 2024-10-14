@@ -2,5 +2,4 @@ La protección del medio ambiente se encarga de todas las dtividades cuyo objeti
 
 
 
-  ![image](imagen1.png)
-
+![image](imagen1.png)
